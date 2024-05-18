@@ -18,7 +18,7 @@ growth_rate = 0.001
 
 males_per_100_females = 104
 
-teen_age = 16 # Above this, they can breed
+teen_age = 16 # Above this, they can reproduce
 elder_age = 70
 max_age = 80
 instant_death_age = 120
